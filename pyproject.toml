@@ -1,0 +1,12 @@
+[project]
+name = "lruj"
+version = "0.1.0"
+description = "Minimal linear-response Hubbard U / Hund J for VASP"
+requires-python = ">=3.8"
+dependencies = ["numpy"]
+
+[project.scripts]
+lruj = "lruj.__main__:main"
+
+[tool.setuptools]
+packages = ["lruj"]
