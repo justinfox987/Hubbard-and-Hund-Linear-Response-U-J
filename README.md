@@ -55,4 +55,5 @@ This is directly adapted from Moore et al.'s Atomate implementation of the same 
 The mathematics come from Linscott et al.'s work [2].
 
 [1] G. C. Moore, M. K. Horton, E. Linscott, A. M. Ganose, M. Siron, D. D. O’Regan, and K. A. Persson, Physical Review Materials 8, (2024). 
+
 [2] E. B. Linscott, D. J. Cole, M. C. Payne, and D. D. O’Regan, Physical Review B 98, (2018)
